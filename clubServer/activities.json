@@ -1,0 +1,25 @@
+[{
+	
+	"name": "Free General Walking Tour",
+	"dates": ["February 22nd","March 7th", "March 21th"]
+  },
+  {
+	
+	"name": "Street Art Walking Tour",
+    "dates": ["February 29th ", "March 14th", "March 28th"]
+},
+{
+	
+	"name": "Culinary Walking Tour", 
+    "dates": ["February 23rd","March 8th", "March 22nd"]
+},	
+{
+	
+	"name": "Literary Walking Tour", 
+    "dates": ["March 1st", "March 15th", "March 29th"]
+},
+{
+	
+	"name": "Pub Crawl", 
+    "dates": ["April 4th", "April 25th"]
+}]
